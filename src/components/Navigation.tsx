@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export function Navigation() {
     return(
         <nav className="flex justify-between items-center h-[50px] px-5 shadow-md   bg-cyan-600 text-white ">
-            <h3 className=" font-bold  font-serif">Github Поиск</h3>
+            <h3 className=" font-bold  font-serif">Github Поиск создан от Асадуллы Назаров</h3>
 
             <span>
                 {/* при нажатие на главная переходится на главную по умалчанию стоит на главной to=""  */}
